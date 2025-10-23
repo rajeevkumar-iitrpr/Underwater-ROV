@@ -1,6 +1,6 @@
 # 🌊 Design and Development of Underwater ROV
 
-**By:** Rajeev Kumar & Sahil Bhardwaj  
+**By:** Rajeev Kumar 
 **Under the Supervision of:** Dr. Navaneeth K. M.  
 **Institute:** Thermo-Fluids Lab, IIT Ropar  
 
