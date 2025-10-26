@@ -13,6 +13,10 @@ The goal is to create an **affordable and educational platform** for underwater 
 
 Most commercial ROVs are expensive and complex; this design emphasizes **simplicity, scalability, and cost-effectiveness** while maintaining reliable performance in shallow waters.
 
+<img width="700" height="500" alt="Model-1" src="https://github.com/user-attachments/assets/8d05722a-eab3-48e9-ad63-4593b9262e47" />
+
+<img width="700" height="650" alt="Model-2" src="https://github.com/user-attachments/assets/a79e3d7a-491e-47f1-8c76-110fea27e93b" />
+
 ---
 
 ## ⚙️ Objectives
